@@ -15,6 +15,10 @@ There's a couple things I was lloking for when designing the project + some othe
 - Hardware that sends data to a iPhone in heartbeats to process
 - Long battery life & rechargable
 
+Here's a link to the 3D model of the device:
+
+https://cad.onshape.com/documents/2ca69e5fab76ae3f99f92d8b/w/827e84dda2547ca1be5ec7f9/e/8c551b0f0c871be1660480a7?renderMode=0&uiState=6a33286fda4b181361c9916d
+
 Here's a photo of the complete device:
 
 <img width="950" height="601" alt="Screenshot 2026-06-17 at 5 23 23 PM" src="https://github.com/user-attachments/assets/29f59d6e-1a4a-4aad-8d81-1cc03e9efd35" />
