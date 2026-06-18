@@ -40,6 +40,8 @@ There's also some wiring off PCB, you can find a diagram of that here:
 <img width="590" height="501" alt="image" src="https://github.com/user-attachments/assets/75c8cea8-9df4-422c-b6c5-25198d2eccee" />
 
 
-And here's the poster for the project:
-[move (1).pdf](https://github.com/user-attachments/files/29077986/move.1.pdf)
+And here's the final for the project (pdf avaibile in repo)
+
+<img width="1545" height="2000" alt="move (4)" src="https://github.com/user-attachments/assets/afec2795-0711-4249-a49d-9db3bffa3a3f" />
+
 
